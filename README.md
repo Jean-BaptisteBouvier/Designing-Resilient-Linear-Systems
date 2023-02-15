@@ -1,6 +1,6 @@
 # Designing-Resilient-Linear-Systems
 
-This repository contains the MATLAB codes used in the paper [Designing Resilient Linear Systems](https://ieeexplore.ieee.org/document/9744569), also available at [ArXiv](https://arxiv.org/abs/2006.13820)
+This repository contains the MATLAB codes used in the paper [Designing Resilient Linear Systems](https://ieeexplore.ieee.org/document/9744569), also available at [ArXiv](https://arxiv.org/abs/2006.13820).
 
 **File Structure**
 ---
@@ -15,22 +15,14 @@ This repository contains the MATLAB codes used in the paper [Designing Resilient
 
 **Citation**
 ---
-`@article{TAC,
-
-  title = {Designing Resilient Linear Systems},
-  
-  author = {Jean-Baptiste Bouvier and Melkior Ornik},
-  
-  journal = {IEEE Transactions on Automatic Control},
-  
-  year = {2022},
-  
-  volume = {67},
-  
-  number = {9},
-  
-  pages = {4832 -- 4837}
-  
+`@article{TAC,   
+  title = {Designing Resilient Linear Systems},    
+  author = {Jean-Baptiste Bouvier and Melkior Ornik},   
+  journal = {IEEE Transactions on Automatic Control},   
+  year = {2022},   
+  volume = {67},   
+  number = {9},  
+  pages = {4832 -- 4837}  
 }`
 
 **Contributors**
