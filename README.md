@@ -15,7 +15,8 @@ This repository contains the MATLAB codes used in the paper [Designing Resilient
 
 **Citation**
 ---
-`@article{TAC,  
+```
+@article{TAC,  
   title = {Designing Resilient Linear Systems},   
   author = {Jean-Baptiste Bouvier and Melkior Ornik},    
   journal = {IEEE Transactions on Automatic Control},    
@@ -23,7 +24,8 @@ This repository contains the MATLAB codes used in the paper [Designing Resilient
   volume = {67},  
   number = {9},  
   pages = {4832 -- 4837}  
-}`
+}
+```
 
 **Contributors**
 ---
